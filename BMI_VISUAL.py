@@ -631,7 +631,7 @@ class BMICalculatorApp(tk.Tk):
                     r.get("bmr_hb",""),
                     r.get("tdee",""),
                     ideals.get("Devine",""),
-                    ideals.get("Robinson",""),
+                    ideals.get("Robinsson",""),
                     ideals.get("Miller",""),
                     ideals.get("Hamwi",""),
                     row.get("activity",""),
