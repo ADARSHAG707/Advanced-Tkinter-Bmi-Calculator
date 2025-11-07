@@ -34,6 +34,7 @@ GUI Framework	Tkinter (no external libs)
 Data Storage	JSON
 Charts / Visuals	Custom Tk Canvas
 Export	CSV writer
+
 📦 Installation
 Clone Repo
 git clone https://github.com/ADARSHAG707/Advanced-Tkinter-Bmi-Calculator.git
