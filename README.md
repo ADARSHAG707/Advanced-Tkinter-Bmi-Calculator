@@ -36,6 +36,7 @@ Charts / Visuals	Custom Tk Canvas
 Export	CSV writer
 
 📦 Installation
+
 Clone Repo
 git clone https://github.com/ADARSHAG707/Advanced-Tkinter-Bmi-Calculator.git
 cd Advanced-Tkinter-Bmi-Calculator
