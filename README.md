@@ -42,6 +42,7 @@ git clone https://github.com/ADARSHAG707/Advanced-Tkinter-Bmi-Calculator.git
 cd Advanced-Tkinter-Bmi-Calculator
 
 Run the App
+
 python bmi_tk_app.py
 
 
