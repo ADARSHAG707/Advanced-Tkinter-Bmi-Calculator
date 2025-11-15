@@ -87,6 +87,7 @@ Undo/Redo stack implemented manually
 
 Persistent history + export tools
 
+
 📜 License
 
 MIT License – free to use, modify, and distribute.
